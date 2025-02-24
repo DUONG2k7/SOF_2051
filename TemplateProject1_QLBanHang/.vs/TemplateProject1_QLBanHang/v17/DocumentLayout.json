@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\Tin H\u1ECDc\\SOF2051_Du an mau(.NET)_SP24\\TaiNguyen\\ProjectSources\\TemplateProject1_QLBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F5CF57-B3E4-4547-AF57-8CFE2B4F29FC}|..\\DAL_QLBanHang\\DAL_QLBanHang.csproj|c:\\users\\pc\\documents\\tin h\u1ECDc\\sof2051_du an mau(.net)_sp24\\tainguyen\\projectsources\\dal_qlbanhang\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F5CF57-B3E4-4547-AF57-8CFE2B4F29FC}|..\\DAL_QLBanHang\\DAL_QLBanHang.csproj|c:\\users\\pc\\documents\\tin h\u1ECDc\\sof2051_du an mau(.net)_sp24\\tainguyen\\projectsources\\dal_qlbanhang\\dal_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0555241E-689F-41CA-BEB0-1B35921637FC}|..\\DTO_QLBanHang\\DTO_QLBanHang.csproj|c:\\users\\pc\\documents\\tin h\u1ECDc\\sof2051_du an mau(.net)_sp24\\tainguyen\\projectsources\\dto_qlbanhang\\dto_khach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DTO_Khach.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Tin H\u1ECDc\\SOF2051_Du an mau(.NET)_SP24\\TaiNguyen\\ProjectSources\\DTO_QLBanHang\\DTO_Khach.cs",
+              "RelativeDocumentMoniker": "..\\DTO_QLBanHang\\DTO_Khach.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Tin H\u1ECDc\\SOF2051_Du an mau(.NET)_SP24\\TaiNguyen\\ProjectSources\\DTO_QLBanHang\\DTO_Khach.cs",
+              "RelativeToolTip": "..\\DTO_QLBanHang\\DTO_Khach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:46:31.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAL_NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Tin H\u1ECDc\\SOF2051_Du an mau(.NET)_SP24\\TaiNguyen\\ProjectSources\\DAL_QLBanHang\\DAL_NhanVien.cs",
+              "RelativeDocumentMoniker": "..\\DAL_QLBanHang\\DAL_NhanVien.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Tin H\u1ECDc\\SOF2051_Du an mau(.NET)_SP24\\TaiNguyen\\ProjectSources\\DAL_QLBanHang\\DAL_NhanVien.cs",
+              "RelativeToolTip": "..\\DAL_QLBanHang\\DAL_NhanVien.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAADgv28BAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:46:25.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Tin H\u1ECDc\\SOF2051_Du an mau(.NET)_SP24\\TaiNguyen\\ProjectSources\\DAL_QLBanHang\\DBConnect.cs",
+              "RelativeDocumentMoniker": "..\\DAL_QLBanHang\\DBConnect.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Tin H\u1ECDc\\SOF2051_Du an mau(.NET)_SP24\\TaiNguyen\\ProjectSources\\DAL_QLBanHang\\DBConnect.cs",
+              "RelativeToolTip": "..\\DAL_QLBanHang\\DBConnect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:42:09.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

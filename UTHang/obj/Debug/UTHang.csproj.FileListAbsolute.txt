@@ -1,0 +1,2 @@
+C:\Users\PC\Documents\Tin Học\SOF2051_Du an mau(.NET)_SP24\TaiNguyen\ProjectSources\UTHang\obj\Debug\UTHang.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Tin Học\SOF2051_Du an mau(.NET)_SP24\TaiNguyen\ProjectSources\UTHang\obj\Debug\UTHang.csproj.CoreCompileInputs.cache
